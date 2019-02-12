@@ -1,5 +1,5 @@
 #  https://leetcode.com/explore/featured/card/top-interview-questions-easy/102/math/744/
-
+# Used Sieve-of-Eratosthenes-algorithm
 
 class Solution(object):
     def countPrimes(self, n):
